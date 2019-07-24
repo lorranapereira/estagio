@@ -1,0 +1,31 @@
+
+.card0{
+	position: relative;
+	padding: 5%;
+	border-radius: 5% 5% 15% 15%;
+	width: 40%;
+	height: 25em;
+	text-align:center;
+	opacity: 0.90;
+    left: 50%;
+	top: 16em;	
+	border: 0.1em solid #4096FF;
+	background-color: #01172B;
+    transform: translate(-50%, -50%);
+}
+h4 {
+	color:white;
+}
+
+.card{
+	position: relative;
+	z-index:12;
+	border-radius: 0.1% 0.1% 15% 15%;		
+	width:100%;			
+	opacity: 0.90;
+	filter: alpha(opacity=65);	
+}
+
+nav {
+	background-color: black!important;
+}
